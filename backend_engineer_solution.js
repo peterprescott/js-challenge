@@ -262,4 +262,4 @@ function getInvestableProperties(top_level_region){
 
 /* Uncomment these working examples if you like... */
 // getInvestableProperties('london').then(displayResults)
-// getInvestableProperties('mancester').then(displayResults)
+// getInvestableProperties('manchester').then(displayResults)
